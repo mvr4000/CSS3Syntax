@@ -1,0 +1,4 @@
+Простой пример селектора: 
+
+.monStyle{color: red ; font-style: italic;} 
+
